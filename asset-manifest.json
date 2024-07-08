@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/meeky-clothing-redux/static/css/main.d6a49417.css",
-    "main.js": "/meeky-clothing-redux/static/js/main.7d75d8a7.js",
+    "main.js": "/meeky-clothing-redux/static/js/main.43884313.js",
     "static/js/453.d61408f0.chunk.js": "/meeky-clothing-redux/static/js/453.d61408f0.chunk.js",
     "static/media/shopping-bag.svg": "/meeky-clothing-redux/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
     "static/media/crown.svg": "/meeky-clothing-redux/static/media/crown.207ae289b221bfaca0108507f9bb2f85.svg",
     "index.html": "/meeky-clothing-redux/index.html",
     "main.d6a49417.css.map": "/meeky-clothing-redux/static/css/main.d6a49417.css.map",
-    "main.7d75d8a7.js.map": "/meeky-clothing-redux/static/js/main.7d75d8a7.js.map",
+    "main.43884313.js.map": "/meeky-clothing-redux/static/js/main.43884313.js.map",
     "453.d61408f0.chunk.js.map": "/meeky-clothing-redux/static/js/453.d61408f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6a49417.css",
-    "static/js/main.7d75d8a7.js"
+    "static/js/main.43884313.js"
   ]
 }
